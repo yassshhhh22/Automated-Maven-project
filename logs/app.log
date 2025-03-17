@@ -64,4 +64,10 @@
 2025-03-17 15:56:18.851 [main] INFO  com.todoapp.service.TaskService - Creating new task: Buy groceries
 2025-03-17 15:56:18.852 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Buy groceries
 2025-03-17 15:56:18.853 [main] INFO  com.todoapp.service.TaskService - Creating new task: Call dentist
-2025-03-17 15:56:18.853 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Call dentist
+2025-03-17 15:56:18.853 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Call dentist2025-03-17 21:46:12.797 [main] INFO  com.todoapp.service.TaskService - Updating task with id: ddabdc31-cdc2-435f-8147-57c4f3e7d1a5
+2025-03-17 21:46:12.816 [main] INFO  com.todoapp.service.TaskService - Creating new task: New Task
+2025-03-17 21:46:12.826 [main] INFO  com.todoapp.service.TaskService - Deleting task with id: 4d1210bc-3315-4e05-b7fd-415fd929f55c
+2025-03-17 21:46:12.832 [main] INFO  com.todoapp.service.TaskService - Deleting task with id: non-existent-id
+2025-03-17 21:46:12.832 [main] WARN  com.todoapp.service.TaskService - Task not found with id: non-existent-id
+2025-03-17 21:46:12.835 [main] INFO  com.todoapp.service.TaskService - Updating task with id: non-existent-id
+2025-03-17 21:46:12.837 [main] WARN  com.todoapp.service.TaskService - Task not found with id: non-existent-id
