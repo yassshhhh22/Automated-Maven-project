@@ -16,3 +16,52 @@
 2025-03-17 12:40:43.360 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Create  amven project integrating automation
 2025-03-17 12:40:46.160 [main] INFO  com.todoapp.repository.TaskRepository - Finding all tasks
 2025-03-17 12:41:02.312 [main] INFO  com.todoapp.repository.TaskRepository - Finding tasks with completed status: false
+2025-03-17 21:05:54.389 [main] INFO  com.todoapp.service.TaskService - Updating task with id: fd3f6108-0a22-416e-b853-272b71e27f9a
+2025-03-17 21:05:54.420 [main] INFO  com.todoapp.service.TaskService - Creating new task: New Task
+2025-03-17 21:05:54.433 [main] INFO  com.todoapp.service.TaskService - Deleting task with id: 77692e7e-949e-486e-80a5-c6ffb5f4632b
+2025-03-17 21:05:54.443 [main] INFO  com.todoapp.service.TaskService - Deleting task with id: non-existent-id
+2025-03-17 21:05:54.444 [main] WARN  com.todoapp.service.TaskService - Task not found with id: non-existent-id
+2025-03-17 21:05:54.448 [main] INFO  com.todoapp.service.TaskService - Updating task with id: non-existent-id
+2025-03-17 21:05:54.449 [main] WARN  com.todoapp.service.TaskService - Task not found with id: non-existent-id
+2025-03-17 15:50:32.023 [main] INFO  com.todoapp.App - Starting Todo Application
+2025-03-17 15:50:32.047 [main] INFO  com.todoapp.service.TaskService - Creating new task: Complete Java project
+2025-03-17 15:50:32.093 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Complete Java project
+2025-03-17 15:50:32.094 [main] INFO  com.todoapp.service.TaskService - Creating new task: Buy groceries
+2025-03-17 15:50:32.096 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Buy groceries
+2025-03-17 15:50:32.097 [main] INFO  com.todoapp.service.TaskService - Creating new task: Call dentist
+2025-03-17 15:50:32.098 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Call dentist
+2025-03-17 15:51:09.669 [main] INFO  com.todoapp.App - Starting Todo Application
+2025-03-17 15:51:09.700 [main] INFO  com.todoapp.service.TaskService - Creating new task: Complete Java project
+2025-03-17 15:51:09.763 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Complete Java project
+2025-03-17 15:51:09.764 [main] INFO  com.todoapp.service.TaskService - Creating new task: Buy groceries
+2025-03-17 15:51:09.765 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Buy groceries
+2025-03-17 15:51:09.766 [main] INFO  com.todoapp.service.TaskService - Creating new task: Call dentist
+2025-03-17 15:51:09.768 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Call dentist
+2025-03-17 21:23:15.208 [main] INFO  com.todoapp.service.TaskService - Updating task with id: 7c94814d-ce16-4e83-868f-1f2e9c2f036c
+2025-03-17 21:23:15.238 [main] INFO  com.todoapp.service.TaskService - Creating new task: New Task
+2025-03-17 21:23:15.252 [main] INFO  com.todoapp.service.TaskService - Deleting task with id: 4aa82a45-9474-4e1c-a9b7-d7cb943488e0
+2025-03-17 21:23:15.263 [main] INFO  com.todoapp.service.TaskService - Deleting task with id: non-existent-id
+2025-03-17 21:23:15.265 [main] WARN  com.todoapp.service.TaskService - Task not found with id: non-existent-id
+2025-03-17 21:23:15.274 [main] INFO  com.todoapp.service.TaskService - Updating task with id: non-existent-id
+2025-03-17 21:23:15.275 [main] WARN  com.todoapp.service.TaskService - Task not found with id: non-existent-id
+2025-03-17 15:55:07.438 [main] INFO  com.todoapp.App - Starting Todo Application
+2025-03-17 15:55:07.473 [main] INFO  com.todoapp.service.TaskService - Creating new task: Complete Java project
+2025-03-17 15:55:07.539 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Complete Java project
+2025-03-17 15:55:07.541 [main] INFO  com.todoapp.service.TaskService - Creating new task: Buy groceries
+2025-03-17 15:55:07.542 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Buy groceries
+2025-03-17 15:55:07.544 [main] INFO  com.todoapp.service.TaskService - Creating new task: Call dentist
+2025-03-17 15:55:07.546 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Call dentist
+2025-03-17 15:56:09.875 [main] INFO  com.todoapp.App - Starting Todo Application
+2025-03-17 15:56:09.915 [main] INFO  com.todoapp.service.TaskService - Creating new task: Complete Java project
+2025-03-17 15:56:09.956 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Complete Java project
+2025-03-17 15:56:09.957 [main] INFO  com.todoapp.service.TaskService - Creating new task: Buy groceries
+2025-03-17 15:56:09.958 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Buy groceries
+2025-03-17 15:56:09.958 [main] INFO  com.todoapp.service.TaskService - Creating new task: Call dentist
+2025-03-17 15:56:09.959 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Call dentist
+2025-03-17 15:56:18.804 [main] INFO  com.todoapp.App - Starting Todo Application
+2025-03-17 15:56:18.823 [main] INFO  com.todoapp.service.TaskService - Creating new task: Complete Java project
+2025-03-17 15:56:18.850 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Complete Java project
+2025-03-17 15:56:18.851 [main] INFO  com.todoapp.service.TaskService - Creating new task: Buy groceries
+2025-03-17 15:56:18.852 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Buy groceries
+2025-03-17 15:56:18.853 [main] INFO  com.todoapp.service.TaskService - Creating new task: Call dentist
+2025-03-17 15:56:18.853 [main] INFO  com.todoapp.repository.TaskRepository - Saving task: Call dentist
