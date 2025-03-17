@@ -1,4 +1,0 @@
-com\todoapp\App.class
-com\todoapp\repository\TaskRepository.class
-com\todoapp\service\TaskService.class
-com\todoapp\model\Task.class
